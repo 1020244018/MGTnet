@@ -11,4 +11,16 @@ We present the D^2Human (Dynamic Detailed Human) dataset, including variously po
 ![dataset](https://github.com/1020244018/MGTnet/blob/main/assert/datasets.jpg)
 [BaiDuYunPan Download](https://pan.baidu.com/s/1A7kvSWhu0sHUh8p6-htQOw) with extraction code 69ba.
 
-## Install guidelines
+## Citation
+Please considering citing 
+```bibtex
+@article{li2021image,
+  title={Image-Guided Human Reconstruction via Multi-Scale Graph Transformation Networks},
+  author={Li, Kun and Wen, Hao and Feng, Qiao and Zhang, Yuxiang and Li, Xiongzheng and Huang, Jing and Yuan, Cunkuan and Lai, Yu-Kun and Liu, Yebin},
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={5239--5251},
+  year={2021},
+  publisher={IEEE}
+}
+```

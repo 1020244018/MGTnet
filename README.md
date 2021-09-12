@@ -16,7 +16,15 @@ Please considering citing
 ```bibtex
 @article{li2021image,
   title={Image-Guided Human Reconstruction via Multi-Scale Graph Transformation Networks},
-  author={Li, Kun and Wen, Hao and Feng, Qiao and Zhang, Yuxiang and Li, Xiongzheng and Huang, Jing and Yuan, Cunkuan and Lai, Yu-Kun and Liu, Yebin},
+  author={Li, Kun 
+  and Wen, Hao 
+  and Feng, Qiao 
+  and Zhang, Yuxiang 
+  and Li, Xiongzheng 
+  and Huang, Jing 
+  and Yuan, Cunkuan 
+  and Lai, Yu-Kun 
+  and Liu, Yebin},
   journal={IEEE Transactions on Image Processing},
   volume={30},
   pages={5239--5251},

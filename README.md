@@ -36,6 +36,14 @@ Install other environments
 ```bash
 pip install -r requirements.txt 
 ```
+## Test
+```bash
+python main_tfrecord.py --mode test
+```
+## Train
+```bash
+python main_tfrecord.py --mode train
+```
 ## Citation
 Please considering citing 
 ```bibtex

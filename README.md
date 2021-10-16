@@ -11,17 +11,18 @@ We present the D^2Human (Dynamic Detailed Human) dataset, including variously po
 ![dataset](https://github.com/1020244018/MGTnet/blob/main/assert/datasets.jpg)
 [BaiDuYunPan Download](https://pan.baidu.com/s/1A7kvSWhu0sHUh8p6-htQOw) with extraction code 69ba.
 
-##
-Requirements
+## Requirements
 - Python3.6
 - tensorflow1.13.2
 - Anaconda
 
-##
-Installation
+## Installation
 ```bash
 # create virtual environment
 conda create -n singleImage python=3.6
+# cudn and cudnn
+
+# install tensorflow
 ```
 
 ## Citation

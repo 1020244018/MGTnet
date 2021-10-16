@@ -41,6 +41,7 @@ pip install -r requirements.txt
 python main_tfrecord.py --mode test
 ```
 ## Train
+data_preparsion...
 ```bash
 python main_tfrecord.py --mode train
 ```

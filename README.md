@@ -17,14 +17,24 @@ We present the D^2Human (Dynamic Detailed Human) dataset, including variously po
 - Anaconda
 
 ## Installation
+create virtual environment
 ```bash
-# create virtual environment
-conda create -n singleImage python=3.6
-# cudn and cudnn
-
-# install tensorflow
+conda create -n MGTnet python=3.6
+conda activate MGTnet
 ```
-
+install cudn and cudnn
+```bash
+conda install cudatoolkit=10.0 cudnn=7.6.4
+```
+install tensorflow
+```bash
+pip install tensorflow-gpu==1.13.2
+```
+install ![psbody](https://github.com/MPI-IS/mesh)
+install other environments
+```bash
+pip install -r requirements.txt 
+```
 ## Citation
 Please considering citing 
 ```bibtex
